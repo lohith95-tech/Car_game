@@ -29,4 +29,4 @@ Built with pure HTML5 Canvas and Vanilla JavaScript — no frameworks, no depend
 
 ## 🚀 Live Demo
 
-👉 [Play Now](https://glow-road-chaser.lovable.app)
+👉 play now link: https://glow-road-chaser.lovable.app/
