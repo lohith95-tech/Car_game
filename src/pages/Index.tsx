@@ -309,7 +309,7 @@ const Index = () => {
       </div>
 
       {/* Touch controls */}
-      <div className="mt-4 grid grid-cols-3 gap-3 select-none md:hidden" style={{ width: "min(420px, 95vw)" }}>
+      <div className="mt-4 grid grid-cols-3 gap-3 select-none" style={{ width: "min(420px, 95vw)" }}>
         {[
           { label: "◀", key: "touchLeft" },
           { label: "▲", key: "touchUp" },
